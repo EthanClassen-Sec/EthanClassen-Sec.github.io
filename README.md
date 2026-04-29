@@ -10,9 +10,12 @@
 Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 </p>
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 ## 🧪 Projects
 
-<details>
+
 <summary>🖥️ <b>PC Optimization Lab</b></summary>
 
 <br>
@@ -30,11 +33,7 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 - Identifying performance bottlenecks  
 - Basic system optimization techniques  
 
-</details>
 
----
-
-<details>
 <summary>🌐 <b>Networking Lab</b></summary>
 
 <br>
@@ -47,11 +46,7 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 - DNS resolution  
 - Connectivity troubleshooting  
 
-</details>
 
----
-
-<details>
 <summary>🔐 <b>Cybersecurity Lab</b></summary>
 
 <br>
@@ -64,7 +59,7 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 - Social engineering tactics  
 - Basic security awareness  
 
-</details>
+
 
 ## 🛠️ Technical Skills
 
@@ -93,14 +88,15 @@ Crrently Studying:
 CompTIA A+ • AZ-900 • DP-900 • ISC^2 CC
 </p>
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ethanclassen-sec&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Ethanclassen-sec&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ethanclassen-sec&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EthanClassen-Sec&show_icons=true&theme=tokyonight" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ethanclassen-sec&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 📈 Activity Overview
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EthanClassen-Sec&theme=react-dark" />
-</p>
+---
