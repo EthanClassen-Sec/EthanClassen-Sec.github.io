@@ -13,7 +13,7 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 
 <p align="center">
 
-<img src= "https://images.credly.com/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" width="120"/>
+<img src= "https://images.credly.com/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" width="120"/>
 
 <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="120"/>
 
