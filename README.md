@@ -13,51 +13,24 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-## 🧪 Projects
+<table>
+<tr>
+<td valign="top" width="50%">
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ethanclassen-sec&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Ethanclassen-sec&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ethanclassen-sec&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<summary>🖥️ <b>PC Optimization Lab</b></summary>
+</td>
 
-<br>
+<td valign="top" width="50%">
 
-**What I did:**
-- Analyzed system performance (CPU, RAM, Disk)
-- Optimized startup programs
-- Removed unnecessary software
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ethanclassen-sec&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-**Tools used:**
-- Task Manager  
-- Windows Settings  
-
-**What I learned:**
-- Identifying performance bottlenecks  
-- Basic system optimization techniques  
-
-
-<summary>🌐 <b>Networking Lab</b></summary>
-
-<br>
-
-**What I did:**
-- Ran ipconfig, ping, tracert, nslookup  
-- Analyzed network configuration  
-
-**What I learned:**
-- DNS resolution  
-- Connectivity troubleshooting  
-
-
-<summary>🔐 <b>Cybersecurity Lab</b></summary>
-
-<br>
-
-**What I did:**
-- Analyzed phishing examples  
-- Identified scam patterns  
-
-**What I learned:**
-- Social engineering tactics  
-- Basic security awareness  
+</td>
+</table>
 
 
 
@@ -88,15 +61,11 @@ Crrently Studying:
 CompTIA A+ • AZ-900 • DP-900 • ISC^2 CC
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ethanclassen-sec&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Ethanclassen-sec&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ethanclassen-sec&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ethanclassen-sec&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
