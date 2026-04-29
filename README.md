@@ -12,20 +12,59 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 
 ## 🧪 Projects
 
-### 🖥️ PC Optimization Lab
-- System performance analysis using Task Manager  
-- Startup optimization and disk cleanup  
-- Basic malware & security scanning  
+<details>
+<summary>🖥️ <b>PC Optimization Lab</b></summary>
 
-### 🌐 Networking Lab
-- Used ipconfig, ping, tracert, nslookup  
-- Analyzed IP configuration and DNS behavior  
-- Practiced connectivity troubleshooting  
+<br>
 
-### 🔐 Cybersecurity Awareness Lab
-- Studied phishing and social engineering attacks  
-- Identified real-world scam patterns  
-- Built basic threat awareness knowledge
+**What I did:**
+- Analyzed system performance (CPU, RAM, Disk)
+- Optimized startup programs
+- Removed unnecessary software
+
+**Tools used:**
+- Task Manager  
+- Windows Settings  
+
+**What I learned:**
+- Identifying performance bottlenecks  
+- Basic system optimization techniques  
+
+</details>
+
+---
+
+<details>
+<summary>🌐 <b>Networking Lab</b></summary>
+
+<br>
+
+**What I did:**
+- Ran ipconfig, ping, tracert, nslookup  
+- Analyzed network configuration  
+
+**What I learned:**
+- DNS resolution  
+- Connectivity troubleshooting  
+
+</details>
+
+---
+
+<details>
+<summary>🔐 <b>Cybersecurity Lab</b></summary>
+
+<br>
+
+**What I did:**
+- Analyzed phishing examples  
+- Identified scam patterns  
+
+**What I learned:**
+- Social engineering tactics  
+- Basic security awareness  
+
+</details>
 
 ## 🛠️ Technical Skills
 
