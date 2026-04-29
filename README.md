@@ -11,6 +11,14 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 </p>
 
 
+## 🛠️ Technical Skills
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-FF6B00?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-6A0DAD?style=for-the-badge)
+![IT Support](https://img.shields.io/badge/IT_Support-2ECC71?style=for-the-badge)
+![Command Line](https://img.shields.io/badge/Command_Line-000000?style=for-the-badge)
+
 <p align="center">
 
 <img src= "https://images.credly.com/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" width="120"/>
