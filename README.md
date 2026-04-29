@@ -13,11 +13,11 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 
 <p align="center">
 
-<img src= "https://images.credly.com/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png"/>
+<img src= "https://images.credly.com/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" width="120"/>
 
-<img src="https://images.credly.com/images/7d0f2a3b-8d9e-4d1f-9c4e-1c3d2b8a9f0a/CompTIA_Network.png" width="120"/>
+<img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="120"/>
 
-<img src="https://images.credly.com/images/4b7c0c9e-8a2f-4d6d-9c5a-1f3b2a8d9c0e/CompTIA_Security.png" width="120"/>
+<img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="120"/>
 
 </p>
 
