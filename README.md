@@ -48,7 +48,7 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 </p>
 
 <p align="center">
-Currently studying: CompTIA A+ • Network+ • Security+
+Currently studying: CompTIA A+ • AZ-900 • DP-900 • ISC^2 CC
 </p>
 
 ## 📊 GitHub Stats
