@@ -18,7 +18,7 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-6A0DAD?style=for-the-badge)
 ![IT Support](https://img.shields.io/badge/IT_Support-2ECC71?style=for-the-badge)
 ![Command Line](https://img.shields.io/badge/Command_Line-000000?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/macOS-8A2BE2)
+![Static Badge](https://img.shields.io/badge/macOS-8A2BE2?style=for-the-badge)
 
 
 <p align="center">
