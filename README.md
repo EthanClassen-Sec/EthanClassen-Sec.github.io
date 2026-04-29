@@ -34,7 +34,10 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge)
 ![IT Support](https://img.shields.io/badge/IT_Support-03fc3d?style=for-the-badge)
 ![Command Line](https://img.shields.io/badge/Command_Line-000000?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/macOS-03fc3d?style=for-the-badge)
+![Sta• ISCtic Badge](https://img.shields.io/badge/macOS-03fc3d?style=for-the-badge)
+<p align="center">
+Crrently Studying:
+</p>
 
 
 <p align="center">
@@ -48,7 +51,7 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 </p>
 
 <p align="center">
-Currently studying: CompTIA A+ • AZ-900 • DP-900 • ISC^2 CC
+CompTIA A+ • AZ-900 • DP-900 • ISC^2 CC
 </p>
 
 ## 📊 GitHub Stats
