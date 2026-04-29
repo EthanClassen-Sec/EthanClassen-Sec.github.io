@@ -10,6 +10,22 @@
 Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 </p>
 
+## 🧪 Projects
+
+### 🖥️ PC Optimization Lab
+- System performance analysis using Task Manager  
+- Startup optimization and disk cleanup  
+- Basic malware & security scanning  
+
+### 🌐 Networking Lab
+- Used ipconfig, ping, tracert, nslookup  
+- Analyzed IP configuration and DNS behavior  
+- Practiced connectivity troubleshooting  
+
+### 🔐 Cybersecurity Awareness Lab
+- Studied phishing and social engineering attacks  
+- Identified real-world scam patterns  
+- Built basic threat awareness knowledge
 
 ## 🛠️ Technical Skills
 
@@ -33,4 +49,16 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 
 <p align="center">
 Currently studying: CompTIA A+ • Network+ • Security+
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EthanClassen-Sec&show_icons=true&theme=tokyonight" />
+</p>
+
+## 📈 Activity Overview
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EthanClassen-Sec&theme=react-dark" />
 </p>
