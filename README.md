@@ -18,7 +18,7 @@ Entry-Level IT Support • Networking • Cybersecurity Enthusiast
 <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="120"/>
 
 <img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="120"/>
-
+<img src="https://images.credly.com/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" width ="120"/>
 </p>
 
 <p align="center">
