@@ -1,18 +1,89 @@
 
-nav {
-  background: #161b22;
-  padding: 15px;
+body {
+  background: #0d1117;
+  color: #00FF9C;
+  font-family: monospace;
+  margin: 0;
+}
+
+/* scanline effect */
+.scanline {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background: repeating-linear-gradient(
+    to bottom,
+    transparent,
+    transparent 2px,
+    rgba(0,255,156,0.03) 3px
+  );
+  pointer-events: none;
+}
+
+/* terminal */
+.terminal {
+  padding: 20px;
+  border-bottom: 1px solid #00FF9C;
+}
+
+/* hero */
+.hero {
   text-align: center;
-  border-bottom: 1px solid #30363d;
+  padding: 40px;
 }
 
-nav a {
-  color: #00ffcc;
-  margin: 0 15px;
-  text-decoration: none;
-  font-weight: bold;
+.hero img {
+  width: 60%;
+  border-radius: 10px;
+  box-shadow: 0 0 20px #00FF9C;
 }
 
-nav a:hover {
-  color: #58a6ff;
+/* sections */
+.section {
+  padding: 40px;
+  text-align: center;
+}
+
+/* skills */
+.skills {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.skills span {
+  border: 1px solid #00FF9C;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+/* projects */
+.projects {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.card {
+  border: 1px solid #00FF9C;
+  padding: 20px;
+  width: 250px;
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 20px #00FF9C;
+}
+
+/* snake */
+.snake {
+  width: 100%;
+  margin-top: 20px;
+}
+
+/* contact */
+.contact {
+  border-top: 1px solid #00FF9C;
 }
