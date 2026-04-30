@@ -1,61 +1,99 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <h1>Ethan Classen | Cybersecurity Portfolio</h1>
-  <style>
-    body {
-      background-color: #0d1117;
-      color: #00ffcc;
-      font-family: monospace;
-      text-align: center;
-      padding: 40px;
-    }
-
-    h1 {
-      font-size: 40px;
-    }
-
-    section {
-      margin-top: 40px;
-    }
-
-    a {
-      color: #58a6ff;
-    }
-  </style>
+  <meta charset="UTF-8">
+  <title>Ethan | Cyber Portfolio</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-  <nav>
-  <a href="#about">About</a>
-  <a href="#projects">Projects</a>
-  <a href="#cv">CV</a>
-  <a href="#contact">Contact</a>
-</nav>
+<div class="scanline"></div>
 
-  <h1>👾 Ethan Classen</h1>
-  <h2>Cybersecurity Student | Aspiring SOC Analyst</h2>
+<!-- TERMINAL HEADER -->
+<header class="terminal">
+  <p>┌──(ethan㉿portfolio)-[~/system]</p>
+  <p>└─$ <span id="typing"></span></p>
+</header>
 
-  <section>
-    <h3>🧠 About Me</h3>
-    <p>
-      I am a cybersecurity student focused on networking, Linux, and security fundamentals.
-      I am building hands-on labs and projects to develop real-world skills.
-    </p>
-  </section>
+<!-- HERO -->
+<section class="hero">
+  <img src="assets/hero.gif" alt="hero">
+  <h1>Ethan Classen</h1>
+  <p>IT Support • Networking • Cybersecurity</p>
+</section>
 
-  <section>
-    <h3>🧪 Projects</h3>
-    <p>Coming soon...</p>
-  </section>
+<!-- ABOUT -->
+<section class="section">
+  <h2>🧠 About</h2>
+  <p>
+    Entry-level IT Support and Cybersecurity technician building hands-on experience through labs, troubleshooting, and real-world simulations.
+  </p>
+</section>
 
-  <section>
-    <h3>🔗 Links</h3>
-    <p>
-      <a href="https://github.com/EthanClassen-Sec">GitHub</a>
-    </p>
-  </section>
+<!-- WHAT I BRING -->
+<section class="section">
+  <h2>🎯 What I Bring</h2>
+  <ul>
+    <li>Hands-on IT labs (not just theory)</li>
+    <li>Strong troubleshooting mindset</li>
+    <li>Fast learner</li>
+    <li>Real-world portfolio projects</li>
+  </ul>
+</section>
 
+<!-- SKILLS -->
+<section class="section">
+  <h2>💻 Tech Stack</h2>
+  <div class="skills">
+    <span>Python</span>
+    <span>Networking</span>
+    <span>Windows</span>
+    <span>Azure</span>
+    <span>CLI</span>
+  </div>
+</section>
+
+<!-- PROJECTS -->
+<section class="section">
+  <h2>🚀 Projects</h2>
+
+  <div class="projects">
+
+    <div class="card">
+      <h3>PC Optimization Lab</h3>
+      <p>Improved system performance using diagnostics & tuning</p>
+      <a href="https://github.com/EthanClassen-Sec/PC-Optimization-Lab">View</a>
+    </div>
+
+    <div class="card">
+      <h3>Networking Lab</h3>
+      <p>Configured and tested basic network environments</p>
+      <a href="https://github.com/EthanClassen-Sec/Basic-Networking-Lab">View</a>
+    </div>
+
+    <div class="card">
+      <h3>Cyber Awareness Lab</h3>
+      <p>Simulated phishing & security awareness scenarios</p>
+      <a href="https://github.com/EthanClassen-Sec/Cybersecurity-Awareness-Lab">View</a>
+    </div>
+
+  </div>
+</section>
+
+<!-- SNAKE -->
+<section class="section">
+  <h2>🐍 Activity</h2>
+  <img src="assets/snake.svg" class="snake">
+</section>
+
+<!-- CONTACT -->
+<section class="section contact">
+  <h2>📫 Contact</h2>
+  <p>Email: ethanclassen.cyber@gmail.com</p>
+  <p>South Africa</p>
+</section>
+
+<script src="script.js"></script>
 </body>
 </html>
