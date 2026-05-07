@@ -7,10 +7,11 @@ import Footer from './components/Footer';
 import Contact from './components/Contact';
 import Certs from './components/Certs';
 import About from './components/About';
+import { motion } from 'framer-motion';
 
 function App() {
   return (
-    <div className="min-h-screen bg-slate-950 text-white">
+    <div className="min-h-screen bg-slate-950 text-white overflow-hidden">
       <Navbar />
       <Hero />
       <About />
