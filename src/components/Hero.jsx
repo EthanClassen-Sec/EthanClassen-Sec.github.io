@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import FloatingText from "./HeroAssets/FloatingText";
-
+import Stack from '../components/Stack';
 export default function Hero() {
   const [mousePosition, setMousePosition] = useState({
     x: 0,
@@ -69,6 +69,9 @@ export default function Hero() {
 
           {/* MOBILE LAYOUT */}
           <div className="relative w-full lg:hidden">
+            <div className="text-lime-400">
+              <Stack />
+            </div>
 
             <div className="absolute bottom-80">
               <h1 className="text-7xl font-black mt-4 leading-none z-10 ">
@@ -270,28 +273,21 @@ export default function Hero() {
             />
 
             {/* RIGHT */}
-            <div className="relative z-30">
+            <div className="absolute bottom-0 left-0 z-30">
+              <Stack />
 
-              <h3 className="text-lime-400 uppercase mb-4">
-                Expertise In
-              </h3>
-
-              <ul className="space-y-2 text-zinc-300">
-                <li>Windows</li>
-                <li>Networking</li>
-                <li>IT Support</li>
-                <li>Linux</li>
-                <li>Command Line</li>
-                <li>Python</li>
-              </ul>
 
             </div>
 
           </div>
+          
 
         </div>
+        
 
       </div>
+
+      
 
     </section>
   );

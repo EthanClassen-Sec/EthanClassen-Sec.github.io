@@ -1,4 +1,4 @@
-import Stack from './components/Stack';
+
 import AboutPreview from './components/Aboutprev';
 import Skills from './components/Skills';
 import Projects from './components/Projects';
@@ -12,8 +12,8 @@ import { motion } from 'framer-motion';
 function App() {
   return (
     <div className="min-h-screen bg-black text-white overflow-hidden">
-
       <Hero />
+      
 
       <motion.div
         initial={{ opacity: 0, y: 60 }}
