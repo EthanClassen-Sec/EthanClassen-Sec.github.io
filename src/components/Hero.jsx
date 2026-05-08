@@ -72,10 +72,8 @@ export default function Hero() {
 
             <div className="absolute bottom-80">
               <h1 className="text-7xl font-black mt-4 leading-none z-10 ">
-                IT SUPPORT
-                <br />
-                <h1 className="text-lime-400">SPECIALIST</h1>
-                <h3 className="text-sm text-lime-700">& CYBERSECURITY ENTHUSIAST</h3>
+                IT <span className="text-lime-400">SUPPORT</span>
+              <h3 className="text-sm text-lime-700">& CYBERSECURITY</h3>
               </h1>
             </div>
 

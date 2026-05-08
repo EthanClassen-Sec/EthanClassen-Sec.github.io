@@ -17,6 +17,8 @@ export default function Projects() {
             PROJECTS
           </h2>
 
+          
+
         </div>
 
         {/* Featured Cards */}
@@ -67,21 +69,7 @@ export default function Projects() {
                 reporting and real-time analysis.
               </p>
 
-              <button
-                className="
-                  mt-8
-                  px-5
-                  py-2
-                  border
-                  border-lime-400/30
-                  text-lime-400
-                  text-sm
-                  uppercase
-                  tracking-widest
-                "
-              >
-                View Project
-              </button>
+              
 
             </div>
 
@@ -104,7 +92,8 @@ export default function Projects() {
               w-full
               max-w-sm
               lg:-translate-y-10
-              hover:-translate-y-14
+              lg:hover:-translate-y-14
+              md:hover:-translate-y-4
               transition-all
               duration-500
             "
@@ -125,21 +114,7 @@ export default function Projects() {
                 attack and defense scenarios.
               </p>
 
-              <button
-                className="
-                  mt-8
-                  px-5
-                  py-2
-                  border
-                  border-lime-400/30
-                  text-lime-400
-                  text-sm
-                  uppercase
-                  tracking-widest
-                "
-              >
-                View Project
-              </button>
+              
 
             </div>
 
@@ -182,21 +157,7 @@ export default function Projects() {
                 traffic monitoring dashboard.
               </p>
 
-              <button
-                className="
-                  mt-8
-                  px-5
-                  py-2
-                  border
-                  border-lime-400/30
-                  text-lime-400
-                  text-sm
-                  uppercase
-                  tracking-widest
-                "
-              >
-                View Project
-              </button>
+              
 
             </div>
 
