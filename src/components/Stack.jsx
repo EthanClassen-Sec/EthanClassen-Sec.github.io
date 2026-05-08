@@ -4,7 +4,7 @@ import { SiGodotengine } from "react-icons/si";
 
 export default function Stack() {
   return (
-    <Marquee direction="horizontal" className="opacity-70 flex items-center justify-center w-20 h-20 bg-zinc-900 backdrop-blur-x1 border rounded border-lime-400 text-lime-400 hover:text-lime-400 hover:border-lime-400/30 hover:shadow-[0_0_25px_rgba(163,230,53,0.12)] transition-all duration-300">
+    <Marquee direction="horizontal" className="opacity-70 flex items-center justify-center w-20 h-20 bg-zinc-900 backdrop-blur-x1  text-lime-400 hover:text-lime-400 hover:border-lime-400/30 hover:shadow-[0_0_25px_rgba(163,230,53,0.12)] transition-all duration-300">
       <FaReact className="text-5xl" />
       <FaPython className="text-5xl" />
       <FaWindows className="text-5xl" />

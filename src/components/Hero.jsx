@@ -69,10 +69,7 @@ export default function Hero() {
 
           {/* MOBILE LAYOUT */}
           <div className="relative w-full lg:hidden">
-            <div className="absolute bottom-140">
-              <Stack />
-            </div>
-
+            
             <div className="absolute bottom-80">
               <h1 className="text-7xl font-black mt-4 leading-none z-10 ">
                 IT <span className="text-lime-400">SUPPORT</span>
@@ -274,7 +271,7 @@ export default function Hero() {
 
             {/* RIGHT */}
             <div className="absolute bottom-0 left-0 z-30">
-              <Stack />
+              
 
 
             </div>
