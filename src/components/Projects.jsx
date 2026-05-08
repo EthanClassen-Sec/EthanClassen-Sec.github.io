@@ -229,6 +229,8 @@ export default function Projects() {
                 flex
                 justify-between
                 items-center
+                hover:bg-lime-400/5
+                hover:text-lime-300
               "
             >
 
@@ -258,6 +260,8 @@ export default function Projects() {
                 flex
                 justify-between
                 items-center
+                hover:bg-lime-400/5
+                hover:text-lime-300
               "
             >
 
@@ -287,6 +291,8 @@ export default function Projects() {
                 flex
                 justify-between
                 items-center
+                hover:bg-lime-400/5
+                hover:text-lime-300
               "
             >
 

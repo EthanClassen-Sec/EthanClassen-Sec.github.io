@@ -61,11 +61,23 @@ export default function Hero() {
 
         {/* HERO */}
         <div className="relative min-h-screen flex items-center">
+          <div className="hidden lg:block">
+            <FloatingText />
 
-          <FloatingText />
+          </div>
+          
 
           {/* MOBILE LAYOUT */}
           <div className="relative w-full lg:hidden">
+
+            <div className="absolute bottom-80">
+              <h1 className="text-7xl font-black mt-4 leading-none z-10 ">
+                IT SUPPORT
+                <br />
+                <h1 className="text-lime-400">SPECIALIST</h1>
+                <h3 className="text-sm text-lime-700">& CYBERSECURITY ENTHUSIAST</h3>
+              </h1>
+            </div>
 
             {/* Image */}
             <motion.img
@@ -79,7 +91,7 @@ export default function Hero() {
                 bottom-[-60px]
                 w-[420px]
                 opacity-60
-                z-10
+                z-20
                 object-contain
               "
             />
@@ -89,11 +101,8 @@ export default function Hero() {
               className="
                 absolute
                 inset-0
-                bg-gradient-to-r
-                from-black
-                via-black/80
-                to-transparent
-                z-20
+                
+                z-20 
               "
             />
 
@@ -111,14 +120,10 @@ export default function Hero() {
             >
 
               <p className="text-lime-400 font-semibold uppercase">
-                I BUILD. I SECURE. I SOLVE.
+                Hi, I'm Ethan
               </p>
 
-              <h1 className="text-5xl font-black mt-4 leading-none">
-                CYBER
-                <br />
-                SECURITY
-              </h1>
+              
 
               <p className="mt-6 text-zinc-300 leading-relaxed">
                 IT Support Specialist and aspiring
@@ -141,6 +146,36 @@ export default function Hero() {
               >
                 VIEW MY WORK
               </motion.button>
+              <motion.button whileHover={{
+    scale: 1.05,
+    boxShadow: "0 0 25px rgba(163,230,53,0.35)",
+  }}
+  whileTap={{ scale: 0.95 }}
+  className="
+    mt-8
+    
+
+    px-8
+    py-3
+
+    bg-black
+    text-white
+
+    border
+    border-lime-400/40
+
+    rounded-lg
+    font-semibold
+
+    transition-all
+    duration-300
+
+    hover:border-lime-400
+    hover:text-lime-400
+    hover:bg-lime-400/5
+  " > DOWNLOAD RESUME
+
+              </motion.button>
 
             </motion.div>
 
@@ -158,14 +193,15 @@ export default function Hero() {
             >
 
               <p className="text-lime-400 font-semibold uppercase">
-                I BUILD. I SECURE. I SOLVE.
+                Hi, I'm Ethan
               </p>
 
               <h1 className="text-7xl font-black mt-6 leading-none">
-                CYBER
-                <br />
-                SECURITY
+                IT SUPPORT
+                <br  />
+                <h1 className="text-lime-400">SPECIALIST</h1>
               </h1>
+
 
               <p className="mt-6 text-zinc-300 text-lg leading-relaxed">
                 I'm an IT Support Specialist and aspiring
@@ -187,6 +223,36 @@ export default function Hero() {
                 "
               >
                 VIEW MY WORK
+              </motion.button>
+              <motion.button whileHover={{
+    scale: 1.05,
+    boxShadow: "0 0 25px rgba(163,230,53,0.35)",
+  }}
+  whileTap={{ scale: 0.95 }}
+  className="
+    mt-8
+    ml-4
+
+    px-6
+    py-3
+
+    bg-black
+    text-white
+
+    border
+    border-lime-400/40
+
+    rounded-lg
+    font-semibold
+
+    transition-all
+    duration-300
+
+    hover:border-lime-400
+    hover:text-lime-400
+    hover:bg-lime-400/5
+  ">
+                DOWNLOAD RESUME
               </motion.button>
 
             </motion.div>
