@@ -51,7 +51,7 @@ export default function Hero() {
         {/* Mobile Nav */}
         <div className="flex justify-between items-center py-6 lg:hidden">
           <h1 className="text-lime-400 font-bold tracking-widest">
-            ETHAN
+            
           </h1>
 
           <button className="text-lime-400">
@@ -69,7 +69,7 @@ export default function Hero() {
 
           {/* MOBILE LAYOUT */}
           <div className="relative w-full lg:hidden">
-            <div className="text-lime-400">
+            <div className="absolute bottom-140">
               <Stack />
             </div>
 
